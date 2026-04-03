@@ -6,7 +6,7 @@ A clean, interactive personal finance dashboard built for the **Zorvyn Frontend 
 
 ## 🚀 Live Demo
 
-> [Add your deployment link here — Vercel / Netlify]
+> [https://fintec-seven.vercel.app/]
 
 ## 📁 Repository
 
@@ -88,7 +88,7 @@ All mutations are synced to localStorage immediately.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/chandana28c/Finance_Dashboard.git
+git clone https://github.com/chandana28c/fintec.git
 
 # 2. Navigate into the project
 cd Finance_Dashboard
@@ -181,4 +181,4 @@ Role is not secured — this is a frontend-only simulation for demonstration pur
 
 **Chandana L R**
 chandanalr7899@gmail.com
-Frontend Developer Intern — Zorvyn Assignment
+
