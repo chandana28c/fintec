@@ -6,7 +6,7 @@ A clean, interactive personal finance dashboard built for the **Zorvyn Frontend 
 
 ## 🚀 Live Demo
 
-> [https://fintec-seven.vercel.app/]
+> https://fintec-seven.vercel.app/
 
 ## 📁 Repository
 
