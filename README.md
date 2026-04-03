@@ -10,7 +10,7 @@ A clean, interactive personal finance dashboard built for the **Zorvyn Frontend 
 
 ## 📁 Repository
 
-[https://github.com/chandana28c/Finance_Dashboard](https://github.com/chandana28c/Finance_Dashboard)
+[https://github.com/chandana28c/fintec](https://github.com/chandana28c/fintec)
 
 ---
 
